@@ -12,8 +12,10 @@ This is the official PyTorch implementation of the paper "**JobFormer: Skill-Awa
 
 ### Train and Evaluation
 
-- python main.py # Recall Experiment
-- python finetune.py # Ranking Experiment
+```bash
+python main.py # Recall Experiment
+python finetune.py # Ranking Experiment
+```
 
 ### Citation
 
